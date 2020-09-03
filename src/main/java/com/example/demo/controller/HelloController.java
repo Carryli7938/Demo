@@ -33,7 +33,7 @@ public class HelloController {
         str = str + "getLocalAddr:" + request.getLocalAddr() + ";";
         str = str + "getLocalName:" + request.getLocalName() + ";";
         str = str + "getLocalPort:" + request.getLocalPort() + ";";   
-        return "Hello World lida"+str;
+        return "Hello World wike"+str;
     }
     
 
